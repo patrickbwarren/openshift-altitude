@@ -1,16 +1,15 @@
 ## Altitudes from OS grid references
 
-This part of the repository contains glue code for calculating
-altitudes for Ordnance Survey (OS) National Grid References (NGRs)
-from the [OS Terrain 50
+Code for calculating altitudes for Ordnance Survey (OS) National Grid
+References (NGRs) from the [OS Terrain 50
 dataset](http://www.ordnancesurvey.co.uk/business-and-government/products/terrain-50.html
 "OS website link"), deployed as a [RedHat
 OpenShift](https://www.openshift.com/ "OpenShift website") web
 application.
 
-It helps greatly that the Geospatial Data Abstraction
+It takes advantage of the fact that the Geospatial Data Abstraction
 Library ([GDAL](http://gdal.osgeo.org/ "GDAL website")) utilities are
-already installed in the gear.
+already installed in the OpenShift 'gear'.
 
 To manage OpenShift apps, I recommend installing the `rhc` tool
 package as described in the [OpenShift
