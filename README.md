@@ -99,20 +99,22 @@ tiny part of the full functionality of `Geo::Coordinates::OSGB` is
 required, and (2) some minor changes were necessary to parse 8- and
 10-fig NGRs.
 
----
+### Copying
 
-Copyright &copy; 2015 Patrick B Warren unless stated otherwise.
-
-These programs are free software: you can redistribute them and/or modify
-them under the terms of the GNU General Public License as published by
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version. 
+(at your option) any later version.
 
-These programs are distributed in the hope that they will be useful, but
+This program is distributed in the hope that it will be useful, but
 WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
 General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with these programs.  If not, see
+along with this program.  If not, see
 <http://www.gnu.org/licenses/>.
+
+### Copyright
+
+This program is copyright &copy; 2015 Patrick B Warren unless stated otherwise.
