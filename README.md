@@ -1,6 +1,6 @@
 ## Altitudes from OS grid references
 
-_no longer under development as OpenShift platform has moved on_
+_No longer under development as OpenShift 2.0 no longer exists_
 
 Code for calculating altitudes for Ordnance Survey (OS) National Grid
 References (NGRs) from the [OS Terrain 50
